@@ -6,3 +6,5 @@ For Details about Aroma and the automation script please visit
 
 [[Aroma Builder] ◢● Lazy Aroma ●◣ Build an Aroma Installer in just few Clicks](http://forum.xda-developers.com/showthread.php?t=2744346)
 
+![](lazy.png "Tool Screens")
+
